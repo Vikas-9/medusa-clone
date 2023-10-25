@@ -1,3 +1,4 @@
+<h1>made by vikas</h1>
 <p align="center">
   <a href="https://www.medusajs.com">
   <picture>
